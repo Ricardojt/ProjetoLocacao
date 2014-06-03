@@ -15,8 +15,6 @@ import javax.swing.JOptionPane;
  * @author dvillela
  */
 public class TesteMarcaJpa {
-      
-    
     // Classe executável
     public static void main(String[] args) {
         // Criar uma nova marca
