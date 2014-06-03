@@ -1,0 +1,10 @@
+[pack]
+	buildbitmaps = false
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://github.com/Ricardojt/Locacao
+	fetch = +refs/heads/*:refs/remotes/origin/*
